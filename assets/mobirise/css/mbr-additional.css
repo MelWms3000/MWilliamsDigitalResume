@@ -1468,9 +1468,14 @@ body {
   width: 0;
 }
 .cid-rxmKnCNY01 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #000000;
+}
+.cid-rxmKnCNY01 .mbr-text,
+.cid-rxmKnCNY01 .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rxmtFwJpAD {
   padding-top: 225px;
@@ -1919,6 +1924,9 @@ body {
 }
 .cid-rxmWcTaRwp input::-webkit-calendar-picker-indicator {
   display: none;
+}
+.cid-rxmWcTaRwp H5 {
+  color: #7851a9;
 }
 .cid-rxmu9IQdVi {
   padding-top: 30px;
